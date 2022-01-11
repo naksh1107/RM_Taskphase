@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 int printFibonacciNumbers(int n)
 {
@@ -25,4 +25,8 @@ int main()
         f=printFibonacciNumbers(i);
         cout<<f<<"\n";
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 828e74863a303016b95801dc3c50101c9b17de76

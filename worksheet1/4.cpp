@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 bool isCorrectOrder(int n)
 {
@@ -66,4 +66,8 @@ int main()
     else
         cout<<"It is not a hill number";
      
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 828e74863a303016b95801dc3c50101c9b17de76

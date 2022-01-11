@@ -1,9 +1,6 @@
 #include<iostream>
 #include<string>
 using namespace std;
-#include<iostream>
-#include<string>
-using namespace std;
 
 void sortlen(string arr[], int n)
 {

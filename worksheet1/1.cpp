@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 int main(){
     int l;
@@ -21,4 +21,8 @@ int main(){
     }
   }
   cout<<str;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 828e74863a303016b95801dc3c50101c9b17de76

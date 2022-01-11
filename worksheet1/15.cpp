@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 void bubbleSort(int arr[], int n)
@@ -37,4 +37,8 @@ int main()
     cout<<"Sorted array : \n";
     printArray(arr, n);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 828e74863a303016b95801dc3c50101c9b17de76
